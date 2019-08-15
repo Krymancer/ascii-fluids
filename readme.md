@@ -19,5 +19,5 @@ Then run:
 
 Clock:
 <p align="center">
-  <img src="link">
+  <img src="https://github.com/Krymancer/ascii-fluids/blob/master/clock.gif?raw=true">
 </p>
